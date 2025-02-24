@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ghosty0656
+- 👀 I’m interested in backend development using Deno
+- 🌱 I’m currently learning Typescript
+- 📫 How to reach me: `ghosty0656.` on Discord
+- 😄 Pronouns: Any
+- ⚡ Fun fact: Im a ghost and do not exist
